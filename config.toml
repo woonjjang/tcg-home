@@ -1,0 +1,48 @@
+baseURL = "http://t.textconsulting.io"
+languageCode = "ko-kr"
+title = "Text Consulting Group"
+theme = "twentynineteen-hugo"
+
+# Pagination
+paginate = 5
+
+# Output formats (for search index)
+[outputs]
+Home = ["HTML", "RSS", "JSON"]
+
+# Site params
+[params]
+privacy_link = "/privacy/"
+description = "Text | Code | Digital | Research"
+
+# Menus
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    name = "About Hugo"
+    url = "/about/"
+    weight = 3
+  [[menu.social]]
+    identifier = "github"
+    name = "Github-team-durumi"
+    url = "https://github.com/team-durumi"
+  [[menu.social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/woonjjang"
+  [[menu.social]]
+    identifier = "instagram"
+    name = "Twitter"
+    url = "https://instagram.com/woonjjang_tcg"  
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 1 
+
