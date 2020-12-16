@@ -1,18 +1,15 @@
 ---
-title: "About Hugo"
-date: "2014-04-09"
-menu: ["footer"]
+title: "About TCG"
+date: "2020-12-16"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+TCG
+Text Consulting Group
 
-It makes use of a variety of open source projects including:
+* IT Consulting and Services.
+* IT Consulting for digital archives to government & Nonprofit sectors.
+* Web Service Development.
+* E-book and Contents Provider.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Contact : textbooks4us@gmail.com
 
