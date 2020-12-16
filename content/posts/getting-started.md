@@ -2,10 +2,7 @@
 author = "woonjjang"
 date = 2019-10-22
 title = "Getting Started TCG"
-description = "Getting started with the Text Consulting blog"
-tags = [
-    "tcg",
-]    
+description = "Getting started with the Text Consulting blog"  
 +++
 
 ### 최근소식
