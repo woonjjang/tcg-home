@@ -13,3 +13,8 @@
 ## netlify CMS
 
 - 세팅 방법 https://www.netlifycms.org/docs/hugo/#creating-a-new-site
+- config.yml 에 git-gateway 를 수정하지 않는다. 
+- 아래 스크립트를 Front header에더 넣어줘야 netlify identy 에서 발송한 사용자별 token을 확인하고 접근 가능
+```
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+```
