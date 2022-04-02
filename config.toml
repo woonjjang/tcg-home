@@ -1,4 +1,4 @@
-baseURL = "http://t.textconsulting.io"
+baseURL = "https://t.textconsulting.io"
 languageCode = "ko-kr"
 title = "Text Consulting Group"
 theme = "twentynineteen-hugo"
