@@ -2,6 +2,7 @@ baseURL = "https://t.textconsulting.io"
 languageCode = "ko-kr"
 title = "Text Consulting Group"
 theme = "twentynineteen-hugo"
+description = "Text Consulting Group is company of friends who love text & code in digital world."
 
 # Pagination
 paginate = 10

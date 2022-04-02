@@ -4,6 +4,8 @@ title: Getting Started TCG
 date: 2019-10-22
 description: Getting started with the Text Consulting blog
 thumbnail: https://archives.durumi.io/img/durumi.png
+tags:
+  - org
 ---
 
 ### 최근소식

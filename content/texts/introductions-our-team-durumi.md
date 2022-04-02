@@ -1,9 +1,14 @@
-+++
-author = "woonjjang"
-date = 2019-11-12
-title = "두루미 팀을 소개합니다."
-description = "두루미 팀을 소개합니다. 코드를 씁니다."
-+++
+---
+author: woonjjang
+title: 두루미 팀을 소개합니다.
+date: 2019-11-12
+description: 두루미 팀을 소개합니다. 코드를 씁니다.
+thumbnail: https://archives.durumi.io/img/durumi.png
+tags:
+  - org
+  - aa
+  - roll
+---
 
 ### Team Durumi
 
