@@ -1,9 +1,11 @@
 /public
 /node_modules
-/resources
+resources
 .hugo_build.lock
 resources/_gen/assets/scss/scss/main.scss_d3f48eb806584c2aa805aa5006203e34.content
 resources/_gen/assets/scss/scss/main.scss_d3f48eb806584c2aa805aa5006203e34.content
 # Local Netlify folder
 .netlify
 .vercel
+resources/_gen/assets/scss/scss/main.scss_d3f48eb806584c2aa805aa5006203e34.content
+resources/_gen/assets/scss/scss/main.scss_d3f48eb806584c2aa805aa5006203e34.json

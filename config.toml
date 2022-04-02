@@ -4,7 +4,7 @@ title = "Text Consulting Group"
 theme = "twentynineteen-hugo"
 
 # Pagination
-paginate = 5
+paginate = 10
 
 # Output formats (for search index)
 [outputs]
@@ -12,7 +12,6 @@ Home = ["HTML", "RSS", "JSON"]
 
 # Site params
 [params]
-privacy_link = "/privacy/"
 description = "Text | Code | Digital | Research"
 
 # Menus
@@ -31,8 +30,8 @@ description = "Text | Code | Digital | Research"
     weight = 3
   [[menu.social]]
     identifier = "github"
-    name = "Github-team-durumi"
-    url = "https://github.com/team-durumi"
+    name = "Github-tcg"
+    url = "https://github.com/text-consulting-group"
   [[menu.social]]
     identifier = "twitter"
     name = "Twitter"
