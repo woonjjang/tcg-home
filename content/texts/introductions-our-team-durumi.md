@@ -1,9 +1,14 @@
-+++
-author = "woonjjang"
-date = 2019-11-12
-title = "두루미 팀을 소개합니다."
-description = "두루미 팀을 소개합니다. 코드를 씁니다."
-+++
+---
+author: woonjjang
+title: 두루미 팀을 소개합니다.
+date: 2019-11-12
+description: 두루미 팀을 소개합니다. 코드를 씁니다.
+thumbnail: https://archives.durumi.io/img/durumi.png
+tags:
+  - org
+  - aa
+  - roll
+---
 
 ### Team Durumi
 
@@ -13,7 +18,7 @@ description = "두루미 팀을 소개합니다. 코드를 씁니다."
 다양한 개발 관련일로 Code를 씁니다.
 2022년 JAMSTACK 관련된 프로젝트를 많이 하고 있습니다.
 
-- http://durumi.io/
+- https://durumi.io/
 - https://github.com/team-durumi
 
 ### 웹 서비스 개발
@@ -22,7 +27,7 @@ description = "두루미 팀을 소개합니다. 코드를 씁니다."
 만들어진 솔루션이 아니라 조직에 맞는 시나리오와 이슈 중심으로 개발을 진행합니다. 
 불필요한 과정을 생략하고 문제해결에 집중해 새로운 프로세스를 만듭니다.
 
-- http://durumi.io/projects/webservice
+- https://durumi.io/projects/webservice
 
 ### 디지털아카이브 서비스
 
@@ -33,7 +38,7 @@ description = "두루미 팀을 소개합니다. 코드를 씁니다."
 서비스를 만드는 것은 계약과 업무 방식을 바꾸기 위한 과정이기도 하고, 팀의 중요한 목표이기도 합니다. 
 외부에서는 지속적인 요구가 있고, 이를 바꿀 경험을 많이 갖고 있는 팀이라면 이를 버릴 수 없겠죠 ?
 
-- http://durumi.io/projects/digital-archive
+- https://durumi.io/projects/digital-archive
 
 
 ### 완성도 있는 리모트 개발팀이란 ?

@@ -4,6 +4,8 @@ title: Getting Started TCG
 date: 2019-10-22
 description: Getting started with the Text Consulting blog
 thumbnail: https://archives.durumi.io/img/durumi.png
+tags:
+  - org
 ---
 
 ### 최근소식
@@ -19,4 +21,4 @@ thumbnail: https://archives.durumi.io/img/durumi.png
 
 - 최근에 ** 프로젝트 서비스기획 컨설팅을 마쳤습니다. 조직과 관련된 실험을 하는 이 팀의 건승을 기대합니다. 쭉 이어서 함께 개발할 수 있었는데, 인연을 더 이어가진 못 했어요.
 
-- 일생활균형연구소와 함께 워크리터러시 준비를 합니다. 글을 쓰는 이 공간을 주로 워크리터러시 준비를 하면서 활성화 해 볼 계획이에요. 12월에는 부산에서 강의가 있을 듯 해요. 업무중심의 디지털 리터러시 관련 강의를 할 계획입니다. http://wlb-lab.org
+- 일생활균형연구소와 함께 워크리터러시 준비를 합니다. 글을 쓰는 이 공간을 주로 워크리터러시 준비를 하면서 활성화 해 볼 계획이에요. 12월에는 부산에서 강의가 있을 듯 해요. 업무중심의 디지털 리터러시 관련 강의를 할 계획입니다. https://wlb-lab.org

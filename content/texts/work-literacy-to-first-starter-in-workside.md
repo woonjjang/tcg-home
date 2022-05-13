@@ -1,9 +1,12 @@
-+++
-author = "woonjjang"
-date = 2019-10-24
-title = "Work Literacy"
-description = "Work Literacy in dital work side"
-+++
+---
+author: "woonjjang"
+date: 2019-10-24
+title: "Work Literacy"
+description: "Work Literacy in dital work side"
+tags:
+  - literacy
+  - wlblab
+---
 
 ### 일생활균형연구소 
 
