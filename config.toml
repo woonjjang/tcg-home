@@ -24,11 +24,15 @@ description = "Text | Code | Digital | Research"
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "About TCG"
     url = "/about/"
-    weight = 3
+    weight = 4
+  [[menu.main]]
+    name = "Shop"
+    url = "https://textconsulting.io"
+    weight = 2   
   [[menu.social]]
     identifier = "github"
     name = "Github-tcg"

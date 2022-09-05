@@ -1,4 +1,4 @@
-#Text Consulting Group
+# Text Consulting Group
 
 ## TCG Text 를 작성합니다. 
 
@@ -7,6 +7,19 @@
 ```
 git submodule update --init --recursive
 ```
+
+## build with netlify
+- content/texts
+- t.textconsulting.io
+- 텍스트를 쓰는 일을 끄적인다.
+- 연구의 output이 결국은 텍스트라 연구 결과도 텍스트로 발행한다.
+
+## build with vercel
+- content/codes
+- c.textconsulting.io
+- 코드를 쓰는 일과 관계된 것을 적어본다.
+- 관련된 설명에는 실제 코드를 잘 노출한다.
+
 
 ## netlify CMS
 
@@ -17,11 +30,4 @@ git submodule update --init --recursive
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 ```
 
-## build with netlify
-- t.textconsulting.io
-- 텍스트를 쓰는 일을 끄적인다.
-- 연구의 output이 결국은 텍스트라 연구결과도 텍스트로 발행한다.
-
-## build with vercel
-- c.textconsulting.io
-- 코드를 쓰는 일과 관계된 것을 적어본다.
+## Cloudflare R2
