@@ -31,3 +31,5 @@ git submodule update --init --recursive
 ```
 
 ## Cloudflare R2
+
+r2.textconsulting.io

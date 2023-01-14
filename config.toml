@@ -30,7 +30,7 @@ description = "Text | Code | Digital | Research"
     url = "/about/"
     weight = 4
   [[menu.main]]
-    name = "Shop"
+    name = "Projects"
     url = "https://textconsulting.io"
     weight = 2   
   [[menu.social]]

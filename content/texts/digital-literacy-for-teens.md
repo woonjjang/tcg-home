@@ -9,10 +9,6 @@ tags:
   - book
 ---
 
-### Target
-
-- https://dl.textconsulting.io
-
 ### Summary
 
 인터뷰 초대
